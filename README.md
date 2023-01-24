@@ -1,7 +1,9 @@
 # About
+Winner at RoseHack 2023! ML Model that classified images of objects into recyclables or organics.
+
 Collaborators: David Ryan, Surahbi Tadvalkar, Rohit Manimaran for MLH RoseHack 2023 
 
-Used Convolutional Neural Network to create an image classifier ML Model that we trained using a training dataset of 22,000+ images. Used Power BI to create a dashboard showcasing analysis of relevant metrics such as food type, retailer type, and dollar value of waste.
+Used Convolutional Neural Network to create an image classifier ML Model that we trained using a dataset of 22,000+ images. Used Power BI to create a dashboard showcasing analysis of relevant metrics such as food type, retailer type, and dollar value of waste.
 
 Tech Stack: Python, Microsoft Azure, Machine Learning Studio, Power BI
 
