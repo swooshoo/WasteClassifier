@@ -27,4 +27,4 @@ https://www.coursera.org/learn/convolutional-neural-networks/programming/7Bfm2/c
 
 MLH: Best Use Of Microsoft Cloud
 
-https://devpost.com/software/waste-management-model?ref_content=my-projects-tab&ref_feature=my_projects
+Devpost: https://devpost.com/software/waste-management-model?ref_content=my-projects-tab&ref_feature=my_projects
